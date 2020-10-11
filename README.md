@@ -1,2 +1,2 @@
 # Chess
-Computer game "Chess".
+Computer game "Chess Online".
